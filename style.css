@@ -1,0 +1,56 @@
+/*  
+height: altura;
+width: largura;
+*/
+
+body {
+}
+
+#banner {
+    width: 100%;
+}
+
+.principal {
+    background: #DCE0E6;
+    padding: 30px;
+}
+
+.titulo-principal {
+    padding-left: 20px;
+}
+
+.titulo-centralizado {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#missao {
+    font-size: 20px;
+}
+
+em strong {
+    color: #567EBB;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.vantagens {
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.studying {
+    width: 40%
+}
