@@ -1,0 +1,75 @@
+form {
+  margin: 40px;
+}
+
+form label, form legend {
+  display: block;
+  font-size: 20px;
+  margin: 0 0 10px;
+}
+
+select {
+    padding: 5px;
+    margin: 5px 0;
+    font-size: 18px;
+}
+
+.input-padrao {
+  display: block;
+  margin: 0 0 20px;
+  padding: 10px 25px;
+  width: 50%;
+}
+
+.checkbox {
+  margin: 20px 0;
+}
+
+.enviar {
+    width: 40%;
+    padding: 15px 0;
+    background: #58c400;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    transition: 1s all;
+    cursor: pointer;
+}
+
+.enviar:hover {
+    background: #265500;
+    transform: scale(1.2);
+}
+
+thead {
+    background: #1F1F20;
+    color: white;
+    font-weight: bold;
+}
+
+.tabela, td, th {
+    border: 1px solid #1F1F20;
+    padding: 8px 15px;
+    margin: 40px;
+}
+
+
+/* Estilo para dispositivos até 9400px */ 
+
+@media screen and (max-width: 940px) {
+    .enviar {
+        width: 80%;
+        margin: 0 10% 0 10%;
+    }
+
+    .input-padrao {
+        width: 80%;
+      }
+
+      .tabela, td, th {
+        transform: scale(0.9);
+        margin: -20px auto 10px auto;
+    }
+}

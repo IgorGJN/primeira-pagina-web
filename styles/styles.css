@@ -1,0 +1,98 @@
+/* body {
+    font-family: 'Montserrat', sans-serif;
+}
+*/
+/* Cabeçalho */
+
+header {
+    background: #DCE0E6;
+    padding: 20px 0;
+}
+    
+#logo {
+    height: 250px;
+}
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #1F1F20;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none; 
+}
+
+nav a:hover{
+    color: #567EBB;
+    text-decoration: underline;
+}
+
+
+/* Rodapé */
+
+footer {
+    text-align: center;
+    background: url("../imagens/bg.png");
+}
+
+.rodape {
+    padding: 20px 0;
+}
+
+.copyright {
+    color: #FFFFFF;
+    font-size: 15px;
+    margin: 15px 0 0;
+}
+
+.logo-white {
+    height: 200px;
+}
+
+/* Estilo para dispositivos até 940px */ 
+
+@media screen and (max-width: 940px) {
+  
+    #logo {
+        height: 100px;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    .caixa {
+        position: relative;
+        width: auto;
+        margin: 0 auto;
+        padding: 10px;
+    }
+    nav {
+        position: static;
+        text-align: center;
+    }
+
+    .logo-white {
+        height: 80px;
+    }
+
+    .rodape {
+        padding: 10px 0;
+    }
+}
