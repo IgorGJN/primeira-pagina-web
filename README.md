@@ -23,11 +23,11 @@ Organização dos arquivos.
 
 
 ## 🔢 Versões
-1.0 - (11/06/2022) - HTML5 e CSS3 parte 1: crie uma página da Web.
-2.0 - (12/06/2022) - HTML5 e CSS3 parte 2: posicionamento, listas e navegação
-3.0 - (13/06/2022) - HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas
-4.0 - (16/06/2022) - HTML5 e CSS3 parte 4: avançando no CSS
-5.0 - (17/06/2022) - HTML5 e CSS3 parte 4: layout responsivo
+<p>1.0 - (11/06/2022) - HTML5 e CSS3 parte 1: crie uma página da Web.</p>
+<p>2.0 - (12/06/2022) - HTML5 e CSS3 parte 2: posicionamento, listas e navegação</p>
+<p>3.0 - (13/06/2022) - HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas</p>
+<p>4.0 - (16/06/2022) - HTML5 e CSS3 parte 4: avançando no CSS</p>
+<p>5.0 - (17/06/2022) - HTML5 e CSS3 parte 4: layout responsivo</p>
 
 ## 🛠 Tecnologias
 
